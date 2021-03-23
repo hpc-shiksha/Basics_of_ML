@@ -1,0 +1,10 @@
+Files that follow BSD License 
+-----------------------------
+
+* nsm_ml_knn_hands_on.ipynb 
+* nsm_ml_logistic.ipynb
+* nsm_ml_lr.ipynb
+* nsm_ml_poly_regression.ipynb
+
+All of them were adapted from the sklearn library examples (scikit-learn.org). 
+
